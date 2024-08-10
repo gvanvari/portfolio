@@ -1,1 +1,3 @@
-website to make my portfolio
+# My Portfolio
+
+[Portfolio](./assets/portfolio-screenshot.png)
