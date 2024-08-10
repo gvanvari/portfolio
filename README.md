@@ -1,3 +1,2 @@
 # My Portfolio
-
-[Portfolio](./assets/portfolio-screenshot.png)
+<img title="Portfolio" alt="Portfolio Screenshot" src="./assets/portfolio-screenshot.png">
