@@ -1,3 +1,2 @@
 # My Portfolio
-
-<img title="a title" alt="Alt text" src="./assets/portfolio-screenshot.png">
+<img title="Portfolio" alt="Portfolio Screenshot" src="./assets/portfolio-screenshot.png">
