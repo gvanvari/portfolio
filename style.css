@@ -324,12 +324,12 @@ section {
 }
 
 .article-container {
-    display: flex;
+    display:flex;
     text-align: initial;
     flex-wrap: wrap;
-    flex-direction: row;
-    gap: 2.5rem;
-    justify-content: space-around;
+    flex-direction:row;
+    gap: 1.5rem;
+    justify-content:space-evenly;
 }
 
 article .icon {
