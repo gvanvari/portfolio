@@ -294,6 +294,12 @@ section {
     text-align: center;
 }
 
+.cert-container {
+    position:absolute;
+    right: 27rem;
+    bottom: 2.5rem;
+}
+
 .section-container {
     gap: 4rem;
     height: 80%;
@@ -332,6 +338,15 @@ section {
     justify-content:space-evenly;
 }
 
+.skill-container {
+    display:grid;
+    text-align: initial;
+    flex-wrap: wrap;
+    flex-direction:row;
+    gap: 1.5rem;
+    justify-content:space-evenly;
+}
+
 article .icon {
     cursor: default;
 }
@@ -350,6 +365,10 @@ article .icon {
     border-radius: 2rem;
     width: 90%;
     height: 90%;
+}
+
+.cert-img {
+    padding: 0 2rem 0; 
 }
 
 .projct-title {
