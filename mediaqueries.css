@@ -3,7 +3,10 @@
         height:83vh;
         margin-bottom: 6rem;
     }
-    .about-containers {
+    .about-container {
+        flex-wrap: wrap;
+    }
+    .about-container2 {
         flex-wrap: wrap;
     }
 }
@@ -37,7 +40,7 @@
         height: 275px;
         margin: 0 auto 2 rem;
     }
-    .about-containers {
+    .about-container {
         margin-top: 0;
     }
 }
@@ -55,7 +58,8 @@
         height: fit-content;
         margin-bottom: 2rem;
     }
-    .about-containers,
+    .about-container,
+    .about-container2,
     .contact-info-upper-container,
     .cert-container,
     .btn-container {
@@ -103,6 +107,10 @@
         flex-direction: row;
     }
     .details-container {
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+    .details-container2 {
         flex-wrap: wrap;
         flex-direction: row;
     }
