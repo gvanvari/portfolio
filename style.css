@@ -144,9 +144,9 @@ a:hover {
 
 /* Sections */
 section {
-    padding-top:4vh;
-    height: 96vh;
-    margin: 0 10rem;
+    padding: 4vh 2rem; 
+    margin: 0 auto 40px; 
+    max-width: 1200px; 
     box-sizing: border-box;
     min-height: fit-content;
 }
@@ -264,6 +264,11 @@ section {
     margin-top: 2rem;
 }
 
+.about-container2{
+    flex-direction: column; 
+    gap: 20px;
+}
+
 .about-details-container {
     justify-content: center;
     flex-direction: column;
@@ -298,6 +303,7 @@ section {
     position:absolute;
     right: 27rem;
     bottom: 2.5rem;
+    top: 500px;
 }
 
 .section-container {
@@ -334,6 +340,8 @@ section {
     text-align: initial;
     flex-wrap: wrap;
     flex-direction:row;
+    width: 960px; 
+    height: 540px;
     gap: 1.5rem;
     justify-content:space-evenly;
 }
