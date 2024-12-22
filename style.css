@@ -355,6 +355,17 @@ section {
     gap: 1.5rem;
     justify-content:space-evenly;
 }
+.article-container2{
+    display:flex;
+    text-align: initial;
+    flex-wrap: wrap;
+    flex-direction:row;
+    width: 960px; 
+    height: 540px;
+    gap: 1.5rem;
+    justify-content:space-evenly;
+}
+
 
 .skill-container {
     display:grid;
